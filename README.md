@@ -12,5 +12,5 @@ dependencies used
 
 
 
-[Deployed link](https://super-app-psi.vercel.app/) 
+[Deployed link](https://capstone-react.netlify.app/register) 
 
